@@ -115,7 +115,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Language-Lua-0f172a?style=for-the-badge&logo=lua&logoColor=2C2D72" alt="Lua" />
   <img src="https://img.shields.io/badge/Platform-FiveM-0f172a?style=for-the-badge" alt="FiveM" />
-  <img src="https://img.shields.io/badge/Systems-ESX%2C%20combat%2C%20headshots%2C%20carry%2C%20jobs%2C%20outfits%2C%20PvP%2C%20configs%2C%20Discord%20logs-0f172a?style=for-the-badge" alt="FiveM systems scope" />
 </p>
 
 ### Adobe And Creative Tools
